@@ -31,6 +31,8 @@ HELP_TEXT = """
 
 That's all! 🥳
 
+>Respect My Master @networkchukka
+
 **⚠️WARNING:**
 DO NOT do more than two (2) countdowns at the same time using the same bot. (Reason: Telegram floodwait)
 """
